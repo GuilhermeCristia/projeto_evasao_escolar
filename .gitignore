@@ -1,0 +1,18 @@
+# Ambientes Virtuais
+.env
+venv/
+env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos de configuração de IDE
+.vscode/
+.idea/
+
+# Arquivos de dados 
+data/
